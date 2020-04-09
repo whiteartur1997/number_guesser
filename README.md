@@ -10,3 +10,5 @@ Use Skeleton CSS boilerplate.
 
 In JS used Math.random to generate random winning number.
 When the game is over I used window.location.reload() method.
+
+https://whiteartur1997.github.io/number_guesser/
